@@ -1,3 +1,3 @@
-# An Authorization Login/Register Pages with google
+# Authorization Login/Register App
 
 A new Flutter project.
